@@ -1,5 +1,14 @@
-# Compiled
+# Compiled source #
+###################
+*.project
+*.class
+*.metadata
+*.swp
 *.elc
+*.so
+*.exe
+*.jpeg
+*.jpg
 
 # Packaging
 .cask
